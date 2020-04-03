@@ -1,4 +1,5 @@
 # Libft
-Libft is a School 42 project. The purpose of this project is to create own C library.
+Libft - это проект для школы 21. 
+Цель этого проекта - создать собственную C-библиотеку.
 
 [Task file](https://github.com/do8rolyuboff/Libft/blob/master/libft.en.pdf)
