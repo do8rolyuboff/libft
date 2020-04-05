@@ -8,6 +8,8 @@
 
 ## Как это работает?
 `git clone https://github.com/do8rolyuboff/Libft.git`
+
 `cd libft`
+
 `make`
   
