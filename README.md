@@ -54,5 +54,3 @@ Libc functions | Additional functions | Bonus Functions
 `make`
   
 Makefile скомпилирует объектные файлы (.o) и libft.a (это и есть библиотека).
-
-📚Libft
