@@ -1,5 +1,5 @@
 # LIBFT:
-![Иллюстрация к проекту](https://github.com/do8rolyuboff/Libft/blob/master/LIBFT.jpg)
+![Иллюстрация к проекту](https://github.com/do8rolyuboff/Libft/blob/master/42.jpg)
 Моя реализация функций библиотеки Standard C.
 
 ## Что такое LIBFT?
