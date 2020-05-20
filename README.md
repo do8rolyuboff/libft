@@ -15,7 +15,7 @@
 ### List of functions
 Libc functions | Additional functions | Bonus Functions
 :-----------: | :-----------: | :-----------:
-  [ft_memset](../srcs/ft_memcmp.c)   | [ft_memalloc](srcs/ft_memalloc)       | [ft_lstnew](srcs/ft_lstnew) 
+  [ft_memset](srcs/ft_memcmp.c)   | [ft_memalloc](srcs/ft_memalloc)       | [ft_lstnew](srcs/ft_lstnew) 
   [ft_bzero](srcs/ft_bzero)       | [ft_memdel](srcs/ft_memdel)           | [ft_lstdelone](srcs/ft_lstdelone) 
   [ft_memcpy](srcs/ft_memcpy)     | [ft_strnew](srcs/ft_strnew)           | [ft_lstdel](srcs/ft_lstdel) 
   [ft_memccpy](srcs/ft_memccpy)   | [ft_strdel](srcs/ft_strdel)           | [ft_lstdel](srcs/ft_lstdel) 
