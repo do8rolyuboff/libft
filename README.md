@@ -15,34 +15,34 @@ There are 3 sections:
 ### List of functions
 Libc functions | Additional functions | Bonus Functions
 :----------- | :-----------: | -----------:
-[ft_memset]   | [ft_memalloc]   | [ft_lstnew]
-[ft_bzero]    | [ft_memdel]     | [ft_lstdelone]
-[ft_memcpy]   | [ft_strnew]     | [ft_lstdel]
-[ft_memccpy]  | [ft_strdel]     | [ft_lstdel]
-[ft_memmove]  | [ft_strclr]     | [ft_lstadd]
-[ft_memchr]   | [ft_striter]    | [ft_lstiter]
-[ft_memcmp]   | [ft_striteri]   | [ft_lstmap]
-[ft_strlen]   | [ft_strmap]     |
-[ft_strdup]   | [ft_strmapi]    |
-[ft_strcpy]   | [ft_strequ]     |
-[ft_strncpy]  | [ft_strnequ]    |
-[ft_strcat]   | [ft_strsub]     |
-[ft_strncat]  | [ft_strjoin]    |
-[ft_strlcat]  | [ft_strtrim]    |
-[ft_strchr]   | [ft_strsplit]   |
-[ft_strrchr]  | [ft_itoa]       |
-[ft_strstr]   | [ft_putchar]    |
-[ft_strnstr]  | [ft_putstr]     |
-[ft_strcmp]   | [ft_putendl]    |
-[ft_strncmp]  | [ft_putnbr]     |
-[ft_atoi]     | [ft_putchar_fd] |
-[ft_isalpha]  | [ft_putstr_fd]  |
-[ft_isdigit]  | [ft_putendl_fd] |
-[ft_isalnum]  | [ft_putnbr_fd]  |
-[ft_isascii]  | |
-[ft_isprint]  | |
-[ft_toupper]  | |
-[ft_tolower]  | |
+[ft_memset](srcs/ft_memcmp.c)   | [ft_memalloc]   | [ft_lstnew]
+[ft_bzero](srcs/ft_bzero)   | [ft_memdel]     | [ft_lstdelone]
+[ft_memcpy](srcs/ft_memcpy)   | [ft_strnew]     | [ft_lstdel]
+[ft_memccpy](srcs/ft_memccpy)  | [ft_strdel]     | [ft_lstdel]
+[ft_memmove](srcs/ft_memmove)  | [ft_strclr]     | [ft_lstadd]
+[ft_memchr](srcs/ft_memchr)   | [ft_striter]    | [ft_lstiter]
+[ft_memcmp](srcs/ft_memcmp)   | [ft_striteri]   | [ft_lstmap]
+[ft_strlen](srcs/ft_strlen)   | [ft_strmap]     |
+[ft_strdup](srcs/ft_strdup)   | [ft_strmapi]    |
+[ft_strcpy](srcs/)   | [ft_strequ]     |
+[ft_strncpy](srcs/)  | [ft_strnequ]    |
+[ft_strcat](srcs/)   | [ft_strsub]     |
+[ft_strncat](srcs/) | [ft_strjoin]    |
+[ft_strlcat](srcs/)  | [ft_strtrim]    |
+[ft_strchr](srcs/)   | [ft_strsplit]   |
+[ft_strrchr](srcs/)  | [ft_itoa]       |
+[ft_strstr](srcs/)   | [ft_putchar]    |
+[ft_strnstr](srcs/)  | [ft_putstr]     |
+[ft_strcmp](srcs/)   | [ft_putendl]    |
+[ft_strncmp](srcs/)  | [ft_putnbr]     |
+[ft_atoi](srcs/)     | [ft_putchar_fd] |
+[ft_isalpha](srcs/)  | [ft_putstr_fd]  |
+[ft_isdigit](srcs/)  | [ft_putendl_fd] |
+[ft_isalnum](srcs/)  | [ft_putnbr_fd]  |
+[ft_isascii](srcs/)  | |
+[ft_isprint](srcs/)  | |
+[ft_toupper](srcs/)  | |
+[ft_tolower](srcs/) | |
 
 
 ## Как это работает?
