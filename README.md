@@ -1,10 +1,10 @@
 # Libft - @21born2code
 ![Screenshot intra](https://github.com/do8rolyuboff/Libft/blob/master/other/screenshot.jpeg)
 
-### Что такое Libft?
+## Что такое Libft?
 [LIBFT](https://github.com/do8rolyuboff/Libft/blob/master/other/libft.en.pdf) - это первый проект сделаный мной в рамках обучения в [21school](https://21-school.ru/). Для успешной сдачи проекта необходимо перекодировать некоторые функции стандартных библиотек Cи, для более глубокого понимания их работы. В [21school](https://21-school.ru/) не разрешается использовать большинство библиотек в проектах, поэтому необходимо продолжать расширять собственную библиотеку.
 
-### Что в Libft?
+## Что в Libft?
 
 Есть 3 раздела:
 
@@ -12,7 +12,7 @@
 2.  **Additional functions:** Функции, которые будут полезны для будующих проектов
 3.  **Bonus Functions:** Функции, которые будут полезны для манипулирования связным списком
 
-### List of functions
+## List of functions
 Libc functions | Additional functions | Bonus Functions
 :-----------: | :-----------: | :-----------:
   [ft_memset](srcs/ft_memcmp.c)   | [ft_memalloc](srcs/ft_memalloc)       | [ft_lstnew](srcs/ft_lstnew) 
