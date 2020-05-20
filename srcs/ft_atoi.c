@@ -1,4 +1,9 @@
 #include "../libft.h"
+/* Функция Atoi.
+ * Мы берем строку символы, которые должны быть числами ("123")
+ * и преобразуем ее в число.
+ * man atoi: "The atoi() function converts the initial portion
+ * of the string pointed to by str to int representation." */
 
 int					ft_atoi(const char *str)
 {
