@@ -1,5 +1,4 @@
 # LIBFT:
-![Иллюстрация к проекту](https://github.com/do8rolyuboff/Libft/blob/master/42.jpeg)
 ![Screenshot intra](https://github.com/do8rolyuboff/Libft/blob/master/screenshot.jpeg)
 
 Моя реализация функций библиотеки Standard C.
