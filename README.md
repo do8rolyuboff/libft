@@ -2,7 +2,7 @@
 ![Screenshot intra](https://github.com/do8rolyuboff/Libft/blob/master/screenshot.jpeg)
 
 ### TOC
-* [Что такое Libft?](#what-is-libft)
+* [Что такое Libft?](#что-такое-Libft?)
 * [What's in it?](#whats-in-it)
 * [List of functions](#list-of-functions)  Click to each function to see an explication
 
