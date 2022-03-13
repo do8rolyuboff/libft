@@ -45,12 +45,4 @@ Libc functions | Additional functions | Bonus Functions
   [ft_tolower](srcs/ft_tolower)   | |
 
 
-## Как это работает?
-
-`git clone https://github.com/do8rolyuboff/Libft.git`
-
-`cd libft`
-
-`make`
-  
 Makefile скомпилирует объектные файлы (.o) и libft.a (это и есть библиотека).
